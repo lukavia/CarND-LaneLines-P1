@@ -1,18 +1,10 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
-
 ---
 
-**Finding Lane Lines on the Road**
+### Overview
 
-The goals / steps of this project are the following:
-* Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
-
-
+The goal of this project is to create a pipeline for detecting lanelines in an image. Using the test images provided by Udacity to achive satisfactory results. After that we can try the pipeline to video files to see the result. 
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
